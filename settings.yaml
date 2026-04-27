@@ -1,0 +1,4 @@
+START_DATE = "2023-01-02"
+END_DATE = "2026-04-01"
+initial_cash = 1000000
+benchmark = '000852.XSHG'
